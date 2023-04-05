@@ -2,11 +2,11 @@
 >Pinapples does not belong on pizza!
 
 
-*It is a fruit
+1. It is a fruit
 
-*It should not be cooked
+2. It should not be cooked
 
-*Thus does not belong on pizza
+3. Thus does not belong on pizza
 
 ***
 

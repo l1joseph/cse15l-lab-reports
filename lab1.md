@@ -16,7 +16,7 @@ So you're trying to log onto an ieng6 account. Here's how you do it.
  From there you can open your file explorer and execute the .exe file. I already had VScode installed, and was able to bypass this step. 
  Once you have VScode downloaded, you can open the program and it should look like: 
  ![Image](Screenshot 2023-04-10 213814.png) 
----
+ ***
 
 2. **Remote Connection through SSH**
 
@@ -27,14 +27,15 @@ Your screen after successfully loging in should look like:
 or
 ![Image](pasted image 1.png)
 The differences below are based on whether you used Bash(1) or VScode terminal(2).
----
+***
 
 3. **Commands to Try**
 
 Some commands you can try are: cd, ls, pwd, mkdir, and cp.
 Commands I tried are ls, and cd.
-1[Image](pasted image 2.png)
+![Image](pasted image 2.png)
 cd is used to change directory. From there you can try to access other directories on the server. I tried to access a lab partner's directory.
 ls is used to list files and folders in a current path. When I used this command I saw all the files and folders in my current directory.
 
 Other commands are pwd(show current working directory), mkdir(make directory), and cp(copy).
+***

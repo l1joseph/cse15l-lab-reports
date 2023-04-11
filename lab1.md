@@ -23,7 +23,9 @@ So you're trying to log onto an ieng6 account. Here's how you do it.
 For this step, you'll need to create an account or log into an already existing account [here.](https://sdacs.ucsd.edu/~icc/index.php)
 If using Windows, make sure you have [Git](https://gitforwindows.org/) installed on your machine. From there, to use ssh, you will need to open a terminal in VScode by clicking on 'Terminal' and then 'New Terminal'. Then enter the following command ( where zz is replaced by your unique identifier from your account name): `ssh cs15lsp23zz@ieng6.ucsd.edu`. Once you enter the command, hit enter to run it. You will be prompted to enter your password.\ (Please note your password will not be displayed while typing.)
 Your screen after successfully loging in should look like: 
-![Image](pasted image 0.png) or ![Image](pasted image 1.png)
+![Image](pasted image 0.png) 
+or
+![Image](pasted image 1.png)
 The differences below are based on whether you used Bash(1) or VScode terminal(2).
 ---
 

@@ -8,8 +8,16 @@ So you're trying to log onto an ieng6 account. Here's how you do it.
 * Remote Connection through SSH
 * Commands to Try
 
-1. Installing VScode
+1. **Installing VScode**
 
  To install VScode, go to [VScode](https://code.visualstudio.com/download) and download the appropriate version based on your OS (Windows, Linux, or MacOs).
  From there you can open your file explorer and execute the .exe file. I already had VScode installed, and was able to bypass this step. 
  Once you have VScode downloaded, you can open the program and it should look like: 
+ ![Image](Screenshot 2023-04-10 213814.png) 
+
+2. **Remote Connection through SSH**
+
+For this step, you'll neeed to create an account or log into an already existing account [here.](https://sdacs.ucsd.edu/~icc/index.php)
+If using Windows, make sure you have [Git](https://gitforwindows.org/) installed on your machine. From there, to use ssh, you will need to open a terminal in VScode by clicking on 'Terminal' and then 'New Terminal'. Then enter the following command ( where zz is replaced by your unique identifier from your account name): `ssh cs15lsp23zz@ieng6.ucsd.edu`. Once you enter the command, hit enter to run it. You will be prompted to enter your password.\ (Please note your password will not be displayed while typing.)
+Your screen after successfully loging in should look like: 
+![Image]()

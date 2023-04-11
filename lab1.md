@@ -20,7 +20,7 @@ So you're trying to log onto an ieng6 account. Here's how you do it.
 
 2. **Remote Connection through SSH**
 
-For this step, you'll neeed to create an account or log into an already existing account [here.](https://sdacs.ucsd.edu/~icc/index.php)
+For this step, you'll need to create an account or log into an already existing account [here.](https://sdacs.ucsd.edu/~icc/index.php)
 If using Windows, make sure you have [Git](https://gitforwindows.org/) installed on your machine. From there, to use ssh, you will need to open a terminal in VScode by clicking on 'Terminal' and then 'New Terminal'. Then enter the following command ( where zz is replaced by your unique identifier from your account name): `ssh cs15lsp23zz@ieng6.ucsd.edu`. Once you enter the command, hit enter to run it. You will be prompted to enter your password.\ (Please note your password will not be displayed while typing.)
 Your screen after successfully loging in should look like: 
 ![Image](pasted image 0.png) or ![Image](pasted image 0(1).png)

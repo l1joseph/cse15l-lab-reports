@@ -10,7 +10,7 @@ So you're trying to log onto an ieng6 account. Here's how you do it.
 ---
 ---
 
-1. **Installing VScode**
+1. **VS Code**
 
  To install VScode, go to [VScode](https://code.visualstudio.com/download) and download the appropriate version based on your OS (Windows, Linux, or MacOs).
  From there you can open your file explorer and execute the .exe file. I already had VScode installed, and was able to bypass this step. 

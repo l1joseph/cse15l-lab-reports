@@ -6,7 +6,7 @@ So you're trying to log onto an ieng6 account. Here's how you do it.
 
 * VS Code
 * Remote Connection through SSH
-* Commands to Try
+Commands to Try
 ---
 ---
 
@@ -31,8 +31,8 @@ The differences below are based on whether you used Bash(1) or VScode terminal(2
 
 3. **Commands to Try**
 
-Some commands you can try are: cd, ls, pwd, mkdir, and cp.
-Commands I tried are ls, and cd.
+Some commands you can try are: 'cd', 'ls', 'pwd', 'mkdir', and 'cp'.
+Commands I tried are 'ls', and 'cd'.
 ![Image](pasted image 2.png)
 cd is used to change directory. From there you can try to access other directories on the server. I tried to access a lab partner's directory.
 ls is used to list files and folders in a current path. When I used this command I saw all the files and folders in my current directory.

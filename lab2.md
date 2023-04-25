@@ -83,7 +83,7 @@ class SearchEngine {
 
 ---
   
-  #Part 2: Debugging
+  # Part 2: Debugging
   
   For this part of the report, I will be taking you through the process of identifying and fixing a failure inducing input.
   
@@ -165,7 +165,7 @@ What we did to fix it was to update the for loop to accurately identify and remo
 
 ---
 
-#Part3: Learnings
+# Part3: Learnings
 
 From the lab in week 2, a couple things that I learned include using curl to run a web server thru the terminal, and creating a string checker.
 In week 3, I learned how to run JUNIT tests thru the terminal. I had been running them using VScodes testing enviroment before.

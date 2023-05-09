@@ -74,6 +74,7 @@ class SearchEngine {
   * All methods are being called. This includes `toString` & `handleRequest`.
   * `handleRequest` takes in URI object arguements which is the url on which our site is hosted.
   * The value changes pased on port number.
+  * The server takes the input given after the query and parses it into an identifier and the user input data(apple), using the toString method. From there, handleRequest takss the data and then concatenates it to the end of the string which is then displayed on the webpage(orange, apple).
 
  ![Image](Screenshot 2023-04-24 190728.png)
   
@@ -144,7 +145,7 @@ While input that passed looked like:
 In terms of symptoms, the following is the result fo running the above JUNIT tests.
 ![Image](Screenshot 2023-04-24 195903.png)
 
-What we did to fix it was to update the for loop to accurately identify and remove the lowest value, therefore fixing the logic error that caused the failure.
+Previously this method would inaccurately calculate the average if there were repated elements within the input string, so when calculating the average the method would remove all instances of the lowest number. What we did to fix it was to update the for loop to accurately identify and remove just one of lowest values, therefore fixing the logic error that caused the failure and thus allowing the mothod to produce accurate outputs.
 
 ```java
   //fixed version of averageWithoutLowest

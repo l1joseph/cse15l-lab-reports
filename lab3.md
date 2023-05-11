@@ -9,7 +9,7 @@ What is the grep command. The grep in the grep command stands for 'global regula
 
 Grep has tons on interesting command line options we can explore.
 
-##1. **Grep -o**
+## 1. **Grep -o**
 
 ```bash
 leojo@BobtheBuilder MINGW64 ~/Documents/GitHub/docsearch/technical (main)
@@ -49,7 +49,7 @@ In each of the above examples grep -o prints matched parts of a matching line on
 
 ---
 
-##2. **Grep -i**
+## 2. **Grep -i**
 
 ```bash
 leojo@BobtheBuilder MINGW64 ~/Documents/GitHub/docsearch/technical (main)
@@ -66,7 +66,7 @@ In each of these examples, we see that the capilization of the search term does 
 
 ---
 
-##3. **Grep -w**
+## 3. **Grep -w**
 
 ```bash
 leojo@BobtheBuilder MINGW64 ~/Documents/GitHub/docsearch/technical (main)
@@ -139,7 +139,7 @@ In the above examples, there are two different searches for the same term (so & 
 
 ---
 
-##4. **Grep -R**
+## 4. **Grep -R**
 
 ```bash
 leojo@BobtheBuilder MINGW64 ~/Documents/GitHub/docsearch/technical (main)

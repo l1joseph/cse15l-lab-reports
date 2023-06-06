@@ -11,10 +11,17 @@ Hi, Thank you so much. I just realized that since I was running this from my loc
 ![Image](lab5-ss5.png)
 
 Before(for grade script)
+
 ![Image](lab5-ss6.png)
+
+
 (ArrayExamples) 
+
 ![Image](lab5-ss7.png)
+
+
 (ArrayTests)
+
 ![Image](lab5-ss8.png)
 
 Cmd Line prompts 

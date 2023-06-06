@@ -5,7 +5,7 @@
 ![Image](lab5-ss3png.png)
 
 1. Hi Leo, Have you tried double checking your class path a(make sure you are using the right cmd for your OS)?
-2. ![Image](lab5-ss4.png) 
+2. ![Image](lab5-ss12.png) 
 Hi, Thank you so much. I just realized that since I was running this from my local machine and not my IENG6 account that my class path would have to be the Windows command. It works now!!!
 3. I created a new repository to store ArrayExamples.java. I also forked list-examples-grader and wrote a completely new grading script to accept the ArrayExamples as input. So my file structure for list-example-grader/ looks like
 ![Image](lab5-ss5.png)

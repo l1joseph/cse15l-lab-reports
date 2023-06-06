@@ -3,6 +3,8 @@
 ![Image](lab5-ss1.png)
 ![Image](lab5-ss2.png)
 ![Image](lab5-ss3png.png)
+Failed Output Looked like:
+![Image](lab5-ss10.png)
 
 1. Hi Leo, Have you tried double checking your class path a(make sure you are using the right cmd for your OS)?
 2. ![Image](lab5-ss12.png) 

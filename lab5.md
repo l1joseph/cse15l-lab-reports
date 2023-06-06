@@ -14,6 +14,7 @@ Hi, Thank you so much. I just realized that since I was running this from my loc
 3. I created a new repository to store ArrayExamples.java. I also forked list-examples-grader and wrote a completely new grading script to accept the ArrayExamples as input. So my file structure for list-example-grader/ looks like
 ![Image](lab5-ss5.png)
 
++ a simple new repo containing just ArrayExamples.java(same file included in multiple screenshots on this page).
 Before(for grade script)
 
 ![Image](lab5-ss6.png)
